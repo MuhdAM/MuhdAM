@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=520&height=44&lines=Building%20cool%20things%20%3A);Jack%20of%20all%20trade%2C%20master%20of%20all" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=715&height=44&lines=Mechatronics%20Engineer%2FBuilding%20cool%20things%20%3A);Jack%20of%20all%20trade%2C%20master%20of%20all" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
