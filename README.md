@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Mechatronics engineer &amp; full-stack developer. Passionate about robotics, AI, and creating seamless digital-to-physical experiences.
+Mechatronics engineer &amp; full-stack developer. Building intelligent systems, from autonomous robots to AI powered applications to B2B automation platforms.
 
 🔭 &nbsp;I'm currently working on **scaling B2B web infrastructure, automating business workflows, building out AI ed-tech platforms, and developing upgrade for Noma Scout.**  
 🌱 &nbsp;I'm currently learning **Everything learnable**  
