@@ -17,7 +17,7 @@ Mechatronics engineer &amp; full-stack developer. Passionate about robotics, AI,
 👯 &nbsp;I'm looking to collaborate on **hardware-software integration projects, open-source robotics, or innovative web apps.**  
 💬 &nbsp;Ask me about **Programming, AutoCAD, Solidwork, robotics, embedded systems and AI Automations. Anything you want!**  
 😄 &nbsp;Pronouns: **He/Him**  
-⚡ &nbsp;Fun fact: **I built Noma Scout (an autonomous obstacle-avoidance UGV) using my very first robotics kit and came out as a finalist in my first-ever hackathon!**
+⚡ &nbsp;Fun fact: **I love making money and enjoying**
 
 ### 🛠️ Tech Stack
 
