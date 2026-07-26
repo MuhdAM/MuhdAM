@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Mechatronics%20engineer%2C%20full-stack%20dev....Multi-disciplinary;Jack%20of%20all%20trade%2C%20master%20of%20all" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=520&height=44&lines=Building%20cool%20things%20%3A);Jack%20of%20all%20trade%2C%20master%20of%20all" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Mechatronics engineering student bridging the gap between hardware and code. I build everything from autonomous UGV robots and smart embedded systems to full-stack B2B automation platforms and AI voice receptionists. Passionate about AI, automation, and creating seamless digital-to-physical experiences.
+Mechatronics engineer &amp; full-stack developer. Passionate about robotics, AI, and creating seamless digital-to-physical experiences.
 
-🔭 &nbsp;I'm currently working on **scaling B2B web infrastructure, automating business workflows, building out AI ed-tech platforms, and developing the next-generation upgrade for Noma Scout.**  
-🌱 &nbsp;I'm currently learning **advanced AI for robotics, embedded systems design, and optimizing backend deployment scripts**  
+🔭 &nbsp;I'm currently working on **scaling B2B web infrastructure, automating business workflows, building out AI ed-tech platforms, and developing upgrade for Noma Scout.**  
+🌱 &nbsp;I'm currently learning **Everything learnable**  
 👯 &nbsp;I'm looking to collaborate on **hardware-software integration projects, open-source robotics, or innovative web apps.**  
-💬 &nbsp;Ask me about **Programming, AutoCAD, Solidwork, robotics, embedded systems and AI Automations.**  
+💬 &nbsp;Ask me about **Programming, AutoCAD, Solidwork, robotics, embedded systems and AI Automations. Anything you want!**  
 😄 &nbsp;Pronouns: **He/Him**  
 ⚡ &nbsp;Fun fact: **I built Noma Scout (an autonomous obstacle-avoidance UGV) using my very first robotics kit and came out as a finalist in my first-ever hackathon!**
 
@@ -49,19 +49,19 @@ Mechatronics engineering student bridging the gap between hardware and code. I b
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MuhdAM&show_icons=true&theme=default&title_color=3073f8&icon_color=3073f8&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MuhdAM&show_icons=true&theme=tokyonight&title_color=3073f8&icon_color=3073f8&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhdAM&bg_color=00000000&color=3073f8&line=3073f8&point=1f2328&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhdAM&bg_color=00000000&color=3073f8&line=3073f8&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
